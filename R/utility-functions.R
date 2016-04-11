@@ -18,8 +18,6 @@ SameSense = function(VE) {
 }
 #########################
 
-uselessf=function(asdf){asdf+2}
-##and also some comments
 
 ToNorm = function(oneline) {
     oneline/sqrt(sum(oneline^2))
